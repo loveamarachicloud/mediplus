@@ -79,12 +79,12 @@ body{
 }
 .pro-features li.big-title {
 	font-weight: 600;
-	color: #1A76D1;
+	color: #ff6600;
 	font-size: 15px;
 }
 .pro-features li.title {
 	font-weight: 600;
-	color: #1A76D1;
+	color: #ff6600;
 	font-size: 15px;
 }
 .pro-features .button{}
@@ -113,7 +113,7 @@ body{
 	line-height: 45px;
 	font-size: 14px;
 	border-radius: 5px 0 0 5px;
-	background: #1A76D1;
+	background: #ff6600;
 	text-align: center;
 	color: #fff;
 	top: 0;
@@ -127,7 +127,7 @@ body{
 	bottom: 15px;
 	right: 15px;
 	padding: 10px 20px;
-	background: #1a76d1;
+	background: #ff6600;
 	color: #fff;
 	font-size: 25px;
 	width: 45px;
@@ -221,19 +221,19 @@ body{
 	background:#6c5ce7;
 }
 .color-plate span.color8{
-	background:#85BA46;
+	background:#20c997;
 }
 .color-plate span.color9{
-	background:#273c75;
+	background:#20c997;
 }
 .color-plate span.color10{
-	background:#FD7272;
+	background:#20c997;
 }
 .color-plate span.color11{
-	background:#badc58;
+	background:#20c997;
 }
 .color-plate span.color12{
-	background:#44ce6f;
+	background:#20c997;
 }
 /*=============================
 	End Global CSS 
@@ -290,10 +290,10 @@ body{
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#1A76D1;
+	color:#20c997;
 }
 .header .top-contact li i{
-	color:#1A76D1;
+	color:#20c997;
 	margin-right:8px;
 }
 .header .header-inner {
@@ -344,7 +344,7 @@ body{
 	bottom: 0;
 	height: 3px;
 	width:0%;
-	background: #1A76D1;
+	background: #20c997;
 	border-radius: 5px 5px 0 0;
 	opacity:0;
 	visibility:hidden;
@@ -358,7 +358,7 @@ body{
 	width: 100%;
 }
 .header .nav li.active a{
-	color:#1A76D1;
+	color:#20c997;
 }
 .header .nav li:hover a:before{
 	opacity:1;
@@ -412,7 +412,7 @@ body{
 	width: 40px;
 	line-height: 40px;
 	color: #fff;
-	background: #1A76D1;
+	background: #ff6600;
 	border-radius: 4px;
 	text-align: center;
 	font-size: 15px;
